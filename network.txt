@@ -1,0 +1,20 @@
+Input Nodes :  
+5
+3 1 4 40 30
+4 2 5 30 50
+2 7 5 99 55
+10 12 15 10 10
+11 14 4 45 80
+
+
+Cluster Head Nodes : 
+Cluster 0's Head Node is at : (4,2)
+Cluster 4's Head Node is at : (2,7)
+Cluster 10's Head Node is at : (11,14)
+
+
+Cluster and its residency : 
+Cluster 0 has these nodes(node_Id's) : 0  1  
+Cluster 4 has these nodes(node_Id's) : 2  
+Cluster 10 has these nodes(node_Id's) : 3  4  
+
